@@ -45,6 +45,7 @@
 | [0189-rotate-array](https://github.com/saad4228/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0414-third-maximum-number](https://github.com/saad4228/Leetcode-Practice/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/saad4228/Leetcode-Practice/tree/master/0485-max-consecutive-ones) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/saad4228/Leetcode-Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0896-monotonic-array](https://github.com/saad4228/Leetcode-Practice/tree/master/0896-monotonic-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/saad4228/Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/saad4228/Leetcode-Practice/tree/master/0414-third-maximum-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/saad4228/Leetcode-Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/saad4228/Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
