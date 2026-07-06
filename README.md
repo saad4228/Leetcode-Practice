@@ -28,6 +28,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/saad4228/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/saad4228/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saad4228/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/saad4228/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0414-third-maximum-number](https://github.com/saad4228/Leetcode-Practice/tree/master/0414-third-maximum-number) |
 | [0896-monotonic-array](https://github.com/saad4228/Leetcode-Practice/tree/master/0896-monotonic-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/saad4228/Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
