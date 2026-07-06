@@ -43,6 +43,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/saad4228/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saad4228/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/saad4228/Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/saad4228/Leetcode-Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/saad4228/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/saad4228/Leetcode-Practice/tree/master/0189-rotate-array) |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saad4228/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/saad4228/Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/saad4228/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/saad4228/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [1796-second-largest-digit-in-a-string](https://github.com/saad4228/Leetcode-Practice/tree/master/1796-second-largest-digit-in-a-string) |
@@ -98,4 +100,8 @@
 | ------- |
 | [0169-majority-element](https://github.com/saad4228/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/saad4228/Leetcode-Practice/tree/master/0229-majority-element-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/saad4228/Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
