@@ -21,6 +21,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/saad4228/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/saad4228/Leetcode-Practice/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -43,6 +44,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/saad4228/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saad4228/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/saad4228/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/saad4228/Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/saad4228/Leetcode-Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/saad4228/Leetcode-Practice/tree/master/0169-majority-element) |
@@ -94,6 +96,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/saad4228/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/saad4228/Leetcode-Practice/tree/master/0169-majority-element) |
 ## Counting
 |  |
