@@ -11,6 +11,7 @@
 | [0002-add-two-numbers](https://github.com/saad4228/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/saad4228/Leetcode-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/saad4228/Leetcode-Practice/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/saad4228/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/saad4228/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/saad4228/Leetcode-Practice/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -46,6 +47,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/saad4228/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saad4228/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/saad4228/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/saad4228/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/saad4228/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saad4228/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -123,5 +125,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/saad4228/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/saad4228/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
