@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saad4228/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/saad4228/Leetcode-Practice/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/saad4228/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/saad4228/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/saad4228/Leetcode-Practice/tree/master/0283-move-zeroes) |
@@ -47,6 +48,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/saad4228/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saad4228/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/saad4228/Leetcode-Practice/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/saad4228/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/saad4228/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/saad4228/Leetcode-Practice/tree/master/0054-spiral-matrix) |
