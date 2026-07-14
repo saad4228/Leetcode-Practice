@@ -66,6 +66,7 @@
 | [0283-move-zeroes](https://github.com/saad4228/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/saad4228/Leetcode-Practice/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/saad4228/Leetcode-Practice/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/saad4228/Leetcode-Practice/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/saad4228/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/saad4228/Leetcode-Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0896-monotonic-array](https://github.com/saad4228/Leetcode-Practice/tree/master/0896-monotonic-array) |
@@ -75,6 +76,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/saad4228/Leetcode-Practice/tree/master/0493-reverse-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/saad4228/Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
@@ -117,6 +119,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/saad4228/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/saad4228/Leetcode-Practice/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/saad4228/Leetcode-Practice/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -137,4 +140,20 @@
 | [0048-rotate-image](https://github.com/saad4228/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/saad4228/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/saad4228/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/saad4228/Leetcode-Practice/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/saad4228/Leetcode-Practice/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/saad4228/Leetcode-Practice/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/saad4228/Leetcode-Practice/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
