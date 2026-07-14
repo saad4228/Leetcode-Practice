@@ -33,6 +33,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/saad4228/Leetcode-Practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saad4228/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/saad4228/Leetcode-Practice/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/saad4228/Leetcode-Practice/tree/master/0125-valid-palindrome) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saad4228/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/saad4228/Leetcode-Practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saad4228/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/saad4228/Leetcode-Practice/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/saad4228/Leetcode-Practice/tree/master/0048-rotate-image) |
@@ -85,6 +87,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/saad4228/Leetcode-Practice/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/saad4228/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/saad4228/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/saad4228/Leetcode-Practice/tree/master/0414-third-maximum-number) |
