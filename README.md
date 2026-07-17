@@ -68,6 +68,7 @@
 | [0152-maximum-product-subarray](https://github.com/saad4228/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/saad4228/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/saad4228/Leetcode-Practice/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/saad4228/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/saad4228/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/saad4228/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/saad4228/Leetcode-Practice/tree/master/0414-third-maximum-number) |
@@ -99,6 +100,7 @@
 | [0018-4sum](https://github.com/saad4228/Leetcode-Practice/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/saad4228/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/saad4228/Leetcode-Practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/saad4228/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/saad4228/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/saad4228/Leetcode-Practice/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/saad4228/Leetcode-Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -115,6 +117,7 @@
 | [0073-set-matrix-zeroes](https://github.com/saad4228/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/saad4228/Leetcode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/saad4228/Leetcode-Practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/saad4228/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/saad4228/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/saad4228/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1796-second-largest-digit-in-a-string](https://github.com/saad4228/Leetcode-Practice/tree/master/1796-second-largest-digit-in-a-string) |
