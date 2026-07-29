@@ -76,6 +76,7 @@
 | [0485-max-consecutive-ones](https://github.com/saad4228/Leetcode-Practice/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/saad4228/Leetcode-Practice/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/saad4228/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/saad4228/Leetcode-Practice/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/saad4228/Leetcode-Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0896-monotonic-array](https://github.com/saad4228/Leetcode-Practice/tree/master/0896-monotonic-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/saad4228/Leetcode-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/saad4228/Leetcode-Practice/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/saad4228/Leetcode-Practice/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/saad4228/Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
