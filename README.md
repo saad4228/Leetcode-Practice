@@ -12,6 +12,7 @@
 | [0007-reverse-integer](https://github.com/saad4228/Leetcode-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/saad4228/Leetcode-Practice/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/saad4228/Leetcode-Practice/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/saad4228/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/saad4228/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/saad4228/Leetcode-Practice/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -64,6 +65,7 @@
 | [0053-maximum-subarray](https://github.com/saad4228/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/saad4228/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/saad4228/Leetcode-Practice/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/saad4228/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/saad4228/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saad4228/Leetcode-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/saad4228/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
