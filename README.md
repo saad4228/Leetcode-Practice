@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/saad4228/Leetcode-Practice/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/saad4228/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [1796-second-largest-digit-in-a-string](https://github.com/saad4228/Leetcode-Practice/tree/master/1796-second-largest-digit-in-a-string) |
 ## Array
 |  |
@@ -132,6 +133,7 @@
 | [0169-majority-element](https://github.com/saad4228/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saad4228/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/saad4228/Leetcode-Practice/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/saad4228/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/saad4228/Leetcode-Practice/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/saad4228/Leetcode-Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/saad4228/Leetcode-Practice/tree/master/0905-sort-array-by-parity) |
@@ -150,6 +152,7 @@
 | [0169-majority-element](https://github.com/saad4228/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saad4228/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/saad4228/Leetcode-Practice/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/saad4228/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/saad4228/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1796-second-largest-digit-in-a-string](https://github.com/saad4228/Leetcode-Practice/tree/master/1796-second-largest-digit-in-a-string) |
 ## Bit Manipulation
