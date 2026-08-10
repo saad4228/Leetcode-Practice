@@ -15,6 +15,7 @@
 | [0066-plus-one](https://github.com/saad4228/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/saad4228/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/saad4228/Leetcode-Practice/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/saad4228/Leetcode-Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0242-valid-anagram](https://github.com/saad4228/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/saad4228/Leetcode-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/saad4228/Leetcode-Practice/tree/master/1796-second-largest-digit-in-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/saad4228/Leetcode-Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -138,6 +140,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/saad4228/Leetcode-Practice/tree/master/0410-split-array-largest-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/saad4228/Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1903-largest-odd-number-in-string](https://github.com/saad4228/Leetcode-Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
