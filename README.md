@@ -51,6 +51,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/saad4228/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/saad4228/Leetcode-Practice/tree/master/0242-valid-anagram) |
+| [1021-remove-outermost-parentheses](https://github.com/saad4228/Leetcode-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/saad4228/Leetcode-Practice/tree/master/1796-second-largest-digit-in-a-string) |
 ## Array
 |  |
@@ -226,4 +227,12 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/saad4228/Leetcode-Practice/tree/master/0493-reverse-pairs) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/saad4228/Leetcode-Practice/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/saad4228/Leetcode-Practice/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
