@@ -57,6 +57,7 @@
 | [0205-isomorphic-strings](https://github.com/saad4228/Leetcode-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/saad4228/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/saad4228/Leetcode-Practice/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/saad4228/Leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/saad4228/Leetcode-Practice/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/saad4228/Leetcode-Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Array
@@ -240,10 +241,12 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/saad4228/Leetcode-Practice/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/saad4228/Leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/saad4228/Leetcode-Practice/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/saad4228/Leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |
