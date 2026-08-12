@@ -26,6 +26,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saad4228/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/saad4228/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/saad4228/Leetcode-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saad4228/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -39,6 +40,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saad4228/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/saad4228/Leetcode-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/saad4228/Leetcode-Practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saad4228/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -53,6 +55,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/saad4228/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/saad4228/Leetcode-Practice/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/saad4228/Leetcode-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saad4228/Leetcode-Practice/tree/master/0013-roman-to-integer) |
@@ -270,4 +273,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/saad4228/Leetcode-Practice/tree/master/0451-sort-characters-by-frequency) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/saad4228/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
