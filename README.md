@@ -16,6 +16,7 @@
 | [0048-rotate-image](https://github.com/saad4228/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/saad4228/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/saad4228/Leetcode-Practice/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/saad4228/Leetcode-Practice/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/saad4228/Leetcode-Practice/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/saad4228/Leetcode-Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
@@ -233,6 +234,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/saad4228/Leetcode-Practice/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/saad4228/Leetcode-Practice/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saad4228/Leetcode-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
@@ -301,4 +303,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saad4228/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/saad4228/Leetcode-Practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
