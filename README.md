@@ -75,6 +75,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/saad4228/Leetcode-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/saad4228/Leetcode-Practice/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/saad4228/Leetcode-Practice/tree/master/1903-largest-odd-number-in-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/saad4228/Leetcode-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Array
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/saad4228/Leetcode-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/saad4228/Leetcode-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/saad4228/Leetcode-Practice/tree/master/1901-find-a-peak-element-ii) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/saad4228/Leetcode-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saad4228/Leetcode-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
