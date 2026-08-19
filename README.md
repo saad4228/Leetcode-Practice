@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/saad4228/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/saad4228/Leetcode-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/saad4228/Leetcode-Practice/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/saad4228/Leetcode-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0283-move-zeroes](https://github.com/saad4228/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/saad4228/Leetcode-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/saad4228/Leetcode-Practice/tree/master/0905-sort-array-by-parity) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/saad4228/Leetcode-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saad4228/Leetcode-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
