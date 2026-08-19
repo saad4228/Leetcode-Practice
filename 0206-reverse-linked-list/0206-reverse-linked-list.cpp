@@ -1,4 +1,4 @@
-/**
+/**  //3POINTER APPRAOCH
  * Definition for singly-linked list.
  * struct ListNode {
  *     int val;
@@ -11,15 +11,19 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        if(head==NULL || head->next==NULL){return head;}
-        else
-        {ListNode*newhead=reverseList(head->next);
-         ListNode* front=head->next;
-         head->next=NULL;
-        front->next=head;
-        return newhead;}
-
-
-        
-    }
+        if(head==NULL)return NULL;
+        if(head->next==NULL)return head;
+        ListNode*back=NULL;
+        ListNode*temp=head;
+        ListNode*front=head->next;
+        while(temp!=NULL)
+        {
+           temp->next=back;
+           back=temp;
+           temp=front;
+           if(front==NULL){break;}
+           front=front->next;
+        }
+        return back;
+ }
 };
