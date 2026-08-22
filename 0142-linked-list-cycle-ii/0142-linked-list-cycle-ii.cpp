@@ -9,20 +9,24 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        ListNode *temp=head;
-        map<ListNode *,int>mpp;
-        while(temp!=NULL)
-        {
-            if(mpp.find(temp)!=mpp.end()) //means it exists;
+        if(head==NULL || head->next==NULL)return NULL;
+        ListNode *once=head;
+         ListNode *twice=head;
+         while(twice!=NULL &&twice->next!=NULL)
+         {
+            once=once->next;
+            twice=twice->next->next;
+            if(once==twice)
             {break;}
-            else
-            mpp[temp]++;
-            temp=temp->next;
-        }
-        if(temp==NULL)
-        return NULL;
-        else
-        return temp;
+         }
+         if(once!=twice)return NULL;
+         once=head;
+         while(once!=twice)
+         {
+             once=once->next;
+            twice=twice->next;
+         }
+         return once;
         
     }
 };
