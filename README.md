@@ -154,6 +154,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/saad4228/Leetcode-Practice/tree/master/1901-find-a-peak-element-ii) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/saad4228/Leetcode-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/saad4228/Leetcode-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/saad4228/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -235,6 +236,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/saad4228/Leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/saad4228/Leetcode-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/saad4228/Leetcode-Practice/tree/master/1796-second-largest-digit-in-a-string) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/saad4228/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Bit Manipulation
 |  |
 | ------- |
