@@ -1,52 +1,36 @@
 class Solution {
 public:
     int myAtoi(string s) {
-        int neg=0;long long ans=0;
-        int i=0;
-        while(s[i]==' ')
+        int i=0;int sign=0;
+        long long k=0;
+        while(i<s.size() &&s[i]==' ' )
         {
-            i++;
-        }
-        if(s[i]=='-')
-        {neg=1;
+            i++;}
+       if(i<s.size()&& s[i]=='-'){sign=1;i++;}
+       else if(i<s.size()&& s[i]=='+'){sign=0;i++;}
+       while(i<s.size()&&s[i]=='0' )
+       {i++;}
+       // now we are at a point where its either a no. or character
+       while(i<s.size() &&isdigit(s[i]) )
+       {
+        if(sign==1)
+        { 
+        int digit=s[i]-'0';
+        if(-(k*10+digit)< INT_MIN)return INT_MIN;
+        else
+        {k=k*10+digit;
         i++;}
-        else if(s[i]=='+')
-        {
-            {neg=0;
+       }
+       else if(sign==0)
+       {
+        int digit=s[i]-'0';
+        if(k*10+digit> INT_MAX)return INT_MAX;
+        else
+        {k=k*10+digit;
         i++;}
-        }
-        while(isdigit(s[i]))
-        {int digit=s[i]-'0';
-            
-  if (ans > 214748364 || 
-(ans == 214748364 && digit > (neg ? 8 : 7)))
-    return neg ? INT_MIN : INT_MAX;
-            
-            ans=ans*10+digit;
-            i++;
-        }
-        if(neg==1)
-        {
-            ans=-ans;
-        }
-        if(ans>INT_MAX)return INT_MAX;
-        if(ans<INT_MIN)return INT_MIN;
-      
-        
-    return (int)ans;
-    }};
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
+       }}
+       if(sign==1)return int(-k);
+       else
+       return int(k);
+    }
+};
