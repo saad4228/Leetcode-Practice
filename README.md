@@ -34,6 +34,7 @@
 | [0048-rotate-image](https://github.com/saad4228/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/saad4228/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/saad4228/Leetcode-Practice/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/saad4228/Leetcode-Practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/saad4228/Leetcode-Practice/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/saad4228/Leetcode-Practice/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/saad4228/Leetcode-Practice/tree/master/1903-largest-odd-number-in-string) |
@@ -47,6 +48,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/saad4228/Leetcode-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/saad4228/Leetcode-Practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/saad4228/Leetcode-Practice/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/saad4228/Leetcode-Practice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/saad4228/Leetcode-Practice/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/saad4228/Leetcode-Practice/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -260,6 +262,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/saad4228/Leetcode-Practice/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/saad4228/Leetcode-Practice/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
